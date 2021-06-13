@@ -1,0 +1,404 @@
+<head>
+        <meta charset="utf-8">
+        <title>ASHIKIN WEBSITE</title>
+        <link href="img/2.ico" rel="icon">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+        <!-- CSS Libraries -->
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+        <link href="lib/animate/animate.min.css" rel="stylesheet">
+        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+        <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+        <!-- Template Stylesheet -->
+        <link href="css/style.css" rel="stylesheet">
+
+
+    </head>
+   
+<body>
+
+ <data-spy="scroll" data-target=".navbar" data-offset="51">
+        <!-- Nav Bar Start -->
+        <div class="navbar navbar-expand-lg bg-light navbar-light">
+            <div class="container-fluid">
+                <a href="file:///C:/Users/R%20E%20Y%20U%20M%20O/Desktop/SHIKIN/SEM%204/IMD311/A1/developer-portfolio-template/index.html" class="navbar-brand">R E Y U M O</a>
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                    <div class="navbar-nav ml-auto">
+                        <a href="#home" class="nav-item nav-link active">Home</a>
+                        <a href="#about" class="nav-item nav-link">About</a>
+			<a href="#experience" class="nav-item nav-link">Experience</a>
+			<a href="#portfolio" class="nav-item nav-link">Family</a>
+			<a href="#review" class="nav-item nav-link">Education</a>
+			<a href="#team" class="nav-item nav-link">Gallery</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Nav Bar End -->
+
+        <!-- Hero Start -->
+        <div class="hero" id="home">
+            <div class="container-fluid">
+                <div class="row align-items-center">
+                    <div class="col-sm-12 col-md-6">
+                        <div class="hero-content">
+                            <div class="hero-text">
+                                <p>I'm</p>
+                                <h1>Nurul Ashikin Zalkafle</h1>
+                                <h2></h2>
+                                <div class="typed-text">Welcome, To My, Humble, Personal, Website</div>
+                            </div>
+<audio controls autoplay>
+  <source src="sound/3.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-6 d-none d-md-block">
+                        <div class="hero-image">
+                            <img src="img/hero.jpg" alt="Hero Image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Hero End -->
+<div>
+<center><video width="500" height="400" controls>
+      <source src="video/intro.mp4" type=video/mp4>
+    </video></center>
+<br>
+<br>
+<br>
+</div>
+
+
+        <!-- About Start -->
+        <div class="about wow fadeInUp" data-wow-delay="0.1s" id="about">
+            <div class="container-fluid">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="about-img">
+                            <img src="img/about.jpg" alt="Image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="about-content">
+                            <div class="section-header text-left">
+                                <p>Learn About Me</p>
+                                <h2>BIODATA</h2>
+                            </div>
+                            <div class="about-text">
+                                <p>- My name is Nurul Ashikin binti Zalkafle.</p>
+				<p>- I'm 20 years old as of 2021.</p>
+				<p>- I'm born in Alor Setar, Kedah.</p>
+				<p>- My birthday is on 7th April 2001.</p>
+				<p>- I graduate from SK Haji Ismail for primary education and SMK Tun Sharifah Rodziah for my secondary school.</p>
+				<p>- As of now, I am in my last semester for my diploma.</p>
+				<p>- I have three siblings and I'm the middle child.</p>
+				<p>- I love reading and watching anime or just stuffs from japan.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- About End -->
+    
+         <!-- Experience Start -->
+        <div class="experience" id="experience">
+            <div class="container">
+                <header class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
+                    <p>EXPERIENCE</p>
+                    <h2>Working Experience</h2>
+                </header>
+                <div class="timeline">
+                    <div class="timeline-item left wow slideInLeft" data-wow-delay="0.1s">
+                        <div class="timeline-text">
+                            <div class="timeline-date">2012-2013</div>
+                            <h2>School Bookstore Staffs</h2>
+                            <h4>SK Haji Ismail</h4>
+                            <p>
+                                I'm not a full staff at my primary school bookstore. But I have the experience of handling the customer and the shop for a while.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="timeline-item right wow slideInRight" data-wow-delay="0.1s">
+                        <div class="timeline-text">
+                            <div class="timeline-date">2016-Recent</div>
+                            <h2>Online Business</h2>
+                            <h4>Online Platform</h4>
+                            <p>
+                                I started my online business when I am 15 years old because my finance is not that good and I feel that I need to help my family.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="timeline-item left wow slideInLeft" data-wow-delay="0.1s">
+                        <div class="timeline-text">
+                            <div class="timeline-date">2019-2020</div>
+                            <h2>Part-time Worker at Milala Attire</h2>
+                            <h4>Alor Setar, Kedah</h4>
+                            <p>
+                                I'm not full-time worker because I only go when the boss of the company told me to when they are swamped with stuffs to do. 
+                            </p>
+                        </div>
+                    </div>
+                    <div class="timeline-item right wow slideInRight" data-wow-delay="0.1s">
+                        <div class="timeline-text">
+                            <div class="timeline-date">2021</div>
+                            <h2>Internship</h2>
+                            <h4>Perbadanan Perpustakaan Awam Kedah (PPAK)</h4>
+                            <p>
+                             I went for diploma internship on 15th February 2021 until 24th March 2021. I learn all the basic skill for librarian.   
+                            </p>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Job Experience End -->
+        
+        <!-- Portfolio Start -->
+        <div class="portfolio" id="portfolio">
+            <div class="container">
+                <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
+                    <p>Family</p>
+                    <h2>My Family</h2>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <ul id="portfolio-filter">
+                            <li data-filter="*" class="filter-active">All</li>
+                            <li data-filter=".filter-1">My Parents</li>
+                            <li data-filter=".filter-2">Me</li>
+                            <li data-filter=".filter-3">My Siblings</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row portfolio-container">
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-1 wow fadeInUp" data-wow-delay="0.0s">
+                        <div class="portfolio-wrap">
+                            <div class="portfolio-img">
+                                <img src="img/papa.png" alt="Image">
+                            </div>
+                            <div class="portfolio-text">
+                                <p>Papa - Zalkafle bin Noor. My dad.</p>
+                                <a class="btn" href="img/papa.png" data-lightbox="portfolio">+</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-2 wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="portfolio-wrap">
+                            <div class="portfolio-img">
+                                <img src="img/shikin.png" alt="Image">
+                            </div>
+                            <div class="portfolio-text">
+                                <p>Myself. Nurul Ashikin binti Zalkafle. The middle child.</p>
+                                <a class="btn" href="img/shikin.png" data-lightbox="portfolio">+</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-3 wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="portfolio-wrap">
+                            <div class="portfolio-img">
+                                <img src="img/kakak.png" alt="Image">
+                            </div>
+                            <div class="portfolio-text">
+                                <p>My Older Sister. Nurul Syamimi binti Zalkafle. The oldest child.</p>
+                                <a class="btn" href="img/Kakak.png" data-lightbox="portfolio">+</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-1 wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="portfolio-wrap">
+                            <div class="portfolio-img">
+                                <img src="img/mama.png" alt="Image">
+                            </div>
+                            <div class="portfolio-text">
+                                <p>Mama. Nazreyana binti Md Nordin. My mom.</p>
+                                <a class="btn" href="img/mama.png" data-lightbox="portfolio">+</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-3 wow fadeInUp" data-wow-delay="1s">
+                        <div class="portfolio-wrap">
+                            <div class="portfolio-img">
+                                <img src="img/alif.png" alt="Image">
+                            </div>
+                            <div class="portfolio-text">
+                                <p>My Brother. Muhammad Alif Afifi bin Zalkafle. The Youngest.</p>
+                                <a class="btn" href="img/alif.png" data-lightbox="portfolio">+</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio End -->
+        
+        <!-- Testimonial Start -->
+        <div class="testimonial wow fadeInUp" data-wow-delay="0.1s" id="review">
+            <div class="container">
+<div class="section-header text-center">
+                    <p>Education</p>
+                    <h2>My <span>Education</span> in Detail</h2>
+                </div>
+                <div class="container banner-text">
+                <div class="testimonial-icon">
+                    <i class="fa fa-quote-left"></i>
+                </div>
+                <div class="owl-carousel testimonials-carousel">
+                    <div class="testimonial-item">
+                        <div class="testimonial-img">
+                            <img src="img/pasti.png" alt="Image">
+                        </div>
+                        <div class="testimonial-text">
+                            <p>
+                                I first started education era from my kindergarten when I am 4 and 5 years old which is on 2006 until 2007.
+                            </p>
+                            <h3>PASTI</h3>
+                        </div>
+                    </div>
+                    <div class="testimonial-item">
+                        <div class="testimonial-img">
+                            <img src="img/skhi.jpg" alt="Image">
+                        </div>
+                        <div class="testimonial-text">
+                            <p>
+                               After I reached 7 years old, I went to SK Haji Ismail and finished my education there on 2013 and got my UPSR result. I got straight A on my SPM result.
+                            </p>
+                            <h3>SKHI</h3>
+                        </div>
+                    </div>
+                    <div class="testimonial-item">
+                        <div class="testimonial-img">
+                            <img src="img/smktsr.jpg" alt="Image">
+                        </div>
+                        <div class="testimonial-text">
+                            <p>
+                                After I finished my primary school, I started my secondary school at SMK Tun Sharifah Rodziah on 2014 until 2018 and got my SPM result there. I got 5A and the rest of the 8 subjects are B.
+                            </p>
+                            <h3>SMKTSR</h3>
+</div>
+                        </div>
+<div class="testimonial-item">
+                        <div class="testimonial-img">
+                            <img src="img/uitm.png" alt="Image">
+                        </div>
+                        <div class="testimonial-text">
+                            <p>
+                                After I finished SPM, I went to university at UiTM Kedah on 2019 until now which is 2021. I did not get my overall result yet for diploma.
+                            </p>
+                            <h3>UiTM Kedah</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Testimonial End -->
+
+
+        <!-- Team Start -->
+        <div class="team" id="team">
+                <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
+                    <p>Gallery</p>
+                    <h2>My Gallery</h2>
+                </div>
+</div>
+</div>
+</div>
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <img src="img/cat.jpg" alt="Image">
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <img src="img/family.jpg" alt="Image">
+</div>
+                            </div>
+ </div>
+                </div>
+<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <img src="img/intern.jpg" alt="Image">
+</div>
+                            </div>
+ </div>
+                </div>
+<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <img src="img/sibling.jpg" alt="Image">
+</div>
+                            </div>
+                </div>
+            </div>
+ </div>
+        </div>
+        <!-- Team End -->
+        
+        
+        <!-- Footer Start -->
+        <div class="footer wow fadeIn" data-wow-delay="0.3s">
+            <div class="container-fluid">
+                <div class="container">
+                    <div class="footer-info">
+                        <h2>Nurul Ashikin Zalkafle</h2>
+                        <h3>Alor Setar, Kedah, Malaysia</h3>
+                        <div class="footer-menu">
+                            <p>+6012 5711 869</p>
+                            <p>nurulashikinzalkafle@gmail.com</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="container copyright">
+                    <p>&copy; <a href="#">R E Y U M O</a>, All Right Reserved | Designed By <a href="https://htmlcodex.com">HTML Codex</a></p>
+                </div>
+            </div>
+        </div>
+        <!-- Footer End -->
+        
+        
+        <!-- Back to top button -->
+        <a href="#" class="btn back-to-top"><i class="fa fa-chevron-up"></i></a>
+        
+        
+        <!-- Pre Loader -->
+        <div id="loader" class="show">
+            <div class="loader"></div>
+        </div>
+
+        
+        <!-- JavaScript Libraries -->
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+        <script src="lib/easing/easing.min.js"></script>
+        <script src="lib/wow/wow.min.js"></script>
+        <script src="lib/waypoints/waypoints.min.js"></script>
+        <script src="lib/typed/typed.min.js"></script>
+        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/isotope/isotope.pkgd.min.js"></script>
+        <script src="lib/lightbox/js/lightbox.min.js"></script>
+        
+        <!-- Contact Javascript File -->
+        <script src="mail/jqBootstrapValidation.min.js"></script>
+        <script src="mail/contact.js"></script>
+
+        <!-- Template Javascript -->
+        <script src="js/main.js"></script>
+
+    </body>
+</html>
